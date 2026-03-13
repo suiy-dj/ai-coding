@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start:*)",
+      "WebSearch",
+      "WebFetch(domain:www.163.com)",
+      "Bash(dir:*)",
+      "Bash(powershell:*)",
+      "WebFetch(domain:www.jiqizhixin.com)",
+      "WebFetch(domain:mp.weixin.qq.com)",
+      "WebFetch(domain:techcrunch.com)",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
